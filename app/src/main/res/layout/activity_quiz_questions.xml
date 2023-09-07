@@ -21,6 +21,7 @@
             android:gravity="center"
             android:textSize="22sp"
             android:textColor="@color/pink"
+            android:textStyle="bold"
             tools:text="What animal is this?"
             />
 
@@ -70,6 +71,7 @@
             android:gravity="center"
             android:padding="15dp"
             android:textColor="@color/pink"
+            android:textStyle="bold"
             android:textSize="18sp"
             tools:text="Apple"
             />
@@ -82,6 +84,7 @@
             android:gravity="center"
             android:padding="15dp"
             android:textColor="@color/pink"
+            android:textStyle="bold"
             android:textSize="18sp"
             tools:text="Apple"
             />
@@ -94,6 +97,7 @@
             android:gravity="center"
             android:padding="15dp"
             android:textColor="@color/pink"
+            android:textStyle="bold"
             android:textSize="18sp"
             tools:text="Apple"
             />
@@ -106,6 +110,7 @@
             android:gravity="center"
             android:padding="15dp"
             android:textColor="@color/pink"
+            android:textStyle="bold"
             android:textSize="18sp"
             tools:text="Apple"
             />

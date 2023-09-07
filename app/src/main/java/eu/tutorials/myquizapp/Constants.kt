@@ -1,6 +1,11 @@
 package eu.tutorials.myquizapp
 
 object Constants {
+
+    const val USER_NAME: String = "user_name"
+    const val TOTAL_QUESTIONS: String = "total_questions"
+    const val CORRECT_ANSWERS: String = "correct_answers"
+
     fun getQuestions(): ArrayList<Question> {
         val question: String = "Identify the animal shown in the photograph..."
         val questionsList = ArrayList<Question>()
